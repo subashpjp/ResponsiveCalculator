@@ -1,0 +1,10 @@
+button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
+    width: 60px;
+}
+
+input{
+    margin-left: 40px;
+}
